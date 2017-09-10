@@ -1,2 +1,4 @@
 # champion-gg-scraping
-Quick and dirty script for scraping data from champion.gg
+Quick and dirty script for scraping some data from champion.gg
+
+Contribution always welcomed!
